@@ -14,3 +14,5 @@ vendor
 
 # IDE config
 .vscode
+.idea
+.env
